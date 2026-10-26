@@ -1,0 +1,3 @@
+/home/davidb/Documents/Projects/ComputerVision/build/CMakeFiles/ComputerVision.dir
+/home/davidb/Documents/Projects/ComputerVision/build/CMakeFiles/edit_cache.dir
+/home/davidb/Documents/Projects/ComputerVision/build/CMakeFiles/rebuild_cache.dir

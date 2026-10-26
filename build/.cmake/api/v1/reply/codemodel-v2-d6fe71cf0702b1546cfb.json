@@ -1,0 +1,591 @@
+{
+	"configurations" : 
+	[
+		{
+			"abstractTargets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_alphamat::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_alphamat-74d1ccd94e22394b280f.json",
+					"name" : "opencv_alphamat",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_bgsegm::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_bgsegm-5944128c3de87f90eddc.json",
+					"name" : "opencv_bgsegm",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_bioinspired::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_bioinspired-275d6692f4946d2dfedc.json",
+					"name" : "opencv_bioinspired",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_calib::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_calib-ac0a98a2a09fc2268369.json",
+					"name" : "opencv_calib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_ccalib::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_ccalib-6c2b4ad1e83c5fdc3faf.json",
+					"name" : "opencv_ccalib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_core::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_core-f5ee71466d91f52b9c26.json",
+					"name" : "opencv_core",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_cvv::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_cvv-94261a05bc2590ebe08e.json",
+					"name" : "opencv_cvv",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_datasets::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_datasets-1d1d6e8fd9cd7fc348b3.json",
+					"name" : "opencv_datasets",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_dnn::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_dnn-88f0ecf9df32dc554620.json",
+					"name" : "opencv_dnn",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_dnn_objdetect::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_dnn_objdetect-7bf755ce871ab28ae252.json",
+					"name" : "opencv_dnn_objdetect",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_dnn_superres::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_dnn_superres-bc7025af844e3c562dc9.json",
+					"name" : "opencv_dnn_superres",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_dpm::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_dpm-65b6d7d0220689807311.json",
+					"name" : "opencv_dpm",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_face::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_face-b1e80ffa1b9f1d1e2d13.json",
+					"name" : "opencv_face",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_features::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_features-0f69a7e6c53a9e34ae48.json",
+					"name" : "opencv_features",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_flann::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_flann-73707aa4261fa14dfdc5.json",
+					"name" : "opencv_flann",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_freetype::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_freetype-d33b2b5688732120a452.json",
+					"name" : "opencv_freetype",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_fuzzy::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_fuzzy-ed2f06725f0a1256310b.json",
+					"name" : "opencv_fuzzy",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_gapi::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_gapi-110bb7e6ec88e5c2d0ad.json",
+					"name" : "opencv_gapi",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_geometry::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_geometry-7d311b3c78f01086b1c1.json",
+					"name" : "opencv_geometry",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_hdf::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_hdf-a52e615abb5784c52b73.json",
+					"name" : "opencv_hdf",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_hfs::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_hfs-06bb3cf539cc56ac2158.json",
+					"name" : "opencv_hfs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_highgui::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_highgui-086d6da710c3ebe1e62f.json",
+					"name" : "opencv_highgui",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_img_hash::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_img_hash-887e84690846f23adefe.json",
+					"name" : "opencv_img_hash",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_imgcodecs::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_imgcodecs-0e05c1968538d5eaa70b.json",
+					"name" : "opencv_imgcodecs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_imgproc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_imgproc-a14997f8a647a9b8af95.json",
+					"name" : "opencv_imgproc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_intensity_transform::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_intensity_transform-b803463c30883267bd77.json",
+					"name" : "opencv_intensity_transform",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_line_descriptor::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_line_descriptor-93ee3d61682d21ebd67d.json",
+					"name" : "opencv_line_descriptor",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_ml::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_ml-af31ce736365496400b0.json",
+					"name" : "opencv_ml",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_objdetect::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_objdetect-3ccea9be60cddc2efc31.json",
+					"name" : "opencv_objdetect",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_optflow::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_optflow-032c3eea681d3f173c8f.json",
+					"name" : "opencv_optflow",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_phase_unwrapping::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_phase_unwrapping-67c85c59c8c6f5e544eb.json",
+					"name" : "opencv_phase_unwrapping",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_photo::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_photo-6c953ff970c332fb0296.json",
+					"name" : "opencv_photo",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_plot::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_plot-b2c11afce7cc9d610368.json",
+					"name" : "opencv_plot",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_ptcloud::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_ptcloud-2a06446f0ae182f674c6.json",
+					"name" : "opencv_ptcloud",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_quality::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_quality-edad6b33e44af0546cf6.json",
+					"name" : "opencv_quality",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_rapid::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_rapid-7db13323a7afa2a0b33f.json",
+					"name" : "opencv_rapid",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_reg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_reg-75d10926b59fa7810a3e.json",
+					"name" : "opencv_reg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_rgbd::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_rgbd-2def44b1479284392107.json",
+					"name" : "opencv_rgbd",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_saliency::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_saliency-a2f5b5df64736480faae.json",
+					"name" : "opencv_saliency",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_shape::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_shape-4823ccb0b47ec80f887a.json",
+					"name" : "opencv_shape",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_signal::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_signal-f400589ecca1cff0f2fb.json",
+					"name" : "opencv_signal",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_stereo::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_stereo-5807c98bb907a8a92d01.json",
+					"name" : "opencv_stereo",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_stitching::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_stitching-ff498432514283a95235.json",
+					"name" : "opencv_stitching",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_structured_light::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_structured_light-25e4879f3a0b9dc57cc4.json",
+					"name" : "opencv_structured_light",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_superres::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_superres-63a1e4c8185aae63c5a7.json",
+					"name" : "opencv_superres",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_surface_matching::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_surface_matching-6312a6d7f6a69705ad10.json",
+					"name" : "opencv_surface_matching",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_text::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_text-d6bf3fbe6a9268aae848.json",
+					"name" : "opencv_text",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_tracking::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_tracking-5d9bbf29b80639a9add8.json",
+					"name" : "opencv_tracking",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_video::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_video-282c8f2a1ddef9868e1c.json",
+					"name" : "opencv_video",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_videoio::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_videoio-4588a477654afe1cb0d0.json",
+					"name" : "opencv_videoio",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_videostab::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_videostab-972a092c819cf207f727.json",
+					"name" : "opencv_videostab",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_viz::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_viz-77a6ecfd42144db217dd.json",
+					"name" : "opencv_viz",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_wechat_qrcode::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_wechat_qrcode-3d07638f11095212a244.json",
+					"name" : "opencv_wechat_qrcode",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_xfeatures2d::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_xfeatures2d-d8706aacfae3e53ba296.json",
+					"name" : "opencv_xfeatures2d",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_ximgproc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_ximgproc-3fb2c1434b12515713ad.json",
+					"name" : "opencv_ximgproc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_xobjdetect::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_xobjdetect-66718be1e0d27792f4b6.json",
+					"name" : "opencv_xobjdetect",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_xphoto::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_xphoto-0e1bad2fdf84262e905d.json",
+					"name" : "opencv_xphoto",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_xstereo::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_xstereo-51029f050c7afaa2fc20.json",
+					"name" : "opencv_xstereo",
+					"projectIndex" : 0
+				}
+			],
+			"directories" : 
+			[
+				{
+					"abstractTargetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29,
+						30,
+						31,
+						32,
+						33,
+						34,
+						35,
+						36,
+						37,
+						38,
+						39,
+						40,
+						41,
+						42,
+						43,
+						44,
+						45,
+						46,
+						47,
+						48,
+						49,
+						50,
+						51,
+						52,
+						53,
+						54,
+						55,
+						56,
+						57
+					],
+					"build" : ".",
+					"jsonFile" : "directory-.-b23a0b23c080df4d29ba.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "4.4.4"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"abstractTargetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29,
+						30,
+						31,
+						32,
+						33,
+						34,
+						35,
+						36,
+						37,
+						38,
+						39,
+						40,
+						41,
+						42,
+						43,
+						44,
+						45,
+						46,
+						47,
+						48,
+						49,
+						50,
+						51,
+						52,
+						53,
+						54,
+						55,
+						56,
+						57
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ComputerVision",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ComputerVision::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ComputerVision-83c63e7fae2c8b40a50f.json",
+					"name" : "ComputerVision",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/davidb/Documents/Projects/ComputerVision/build",
+		"source" : "/home/davidb/Documents/Projects/ComputerVision"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 11
+	}
+}
