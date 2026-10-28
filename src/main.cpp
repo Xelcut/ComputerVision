@@ -1,16 +1,28 @@
 #include <iostream> 
 #include <stdio.h>
 
-#include <opencv2/opencv.hpp>
+#include <opencv2/core.hpp>
+#include <opencv2/imgcodecs.hpp>
+#include <opencv2/highgui.hpp>
 
 using namespace std;
+using namespace cv;
 
-
-int main(int argc, char** argv) {
+int main() {
   cout << "Hello World!";
+  std::string image_path = samples::findFile("images/Image.jpg");
+  Mat img = imread(image_path, IMREAD_COLOR);
 
-  if (argc != 2) {
-    cout << "Wow";
+  if (img.empty()) {
+    std::cout << "Could not find image at: " << image_path << std::endl;
+    return 1;
+  }
+
+  imshow("Display window", img);
+  int k = waitKey(0);
+
+  if (k == 's') {
+    imwrite("images/Image.jpg", img);
   }
   return 0;
 }
