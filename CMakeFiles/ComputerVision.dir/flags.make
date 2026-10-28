@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/c++
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/davidb/Documents/Projects/ComputerVision/include -isystem /usr/include/opencv5
+CXX_INCLUDES = -isystem /usr/include/opencv5
 
 CXX_FLAGS = 
 

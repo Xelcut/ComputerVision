@@ -8,7 +8,7 @@ set( NAME_SRC
   src/main.cpp    
 )
 
-INCLUDE_DIRECTORIES( ${CMAKE_CURRENT_SOURCE_DIR}/include )
+# INCLUDE_DIRECTORIES( ${OpenCV_INCLUDE_DIRS} )
 
 link_directories( ${CMAKE_BINARY_DIR}/bin)
 
