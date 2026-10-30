@@ -3,6 +3,8 @@
 
 CMakeFiles/ComputerVision.dir/src/main.cpp.o
  /home/davidb/Documents/Projects/ComputerVision/src/main.cpp
+ /home/davidb/Documents/Projects/ComputerVision/src/tools.cpp
+ /home/davidb/Documents/Projects/ComputerVision/src/tools.h
  /usr/include/alloca.h
  /usr/include/asm-generic/bitsperlong.h
  /usr/include/asm-generic/errno-base.h

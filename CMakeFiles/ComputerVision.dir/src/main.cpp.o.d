@@ -1,7 +1,9 @@
 CMakeFiles/ComputerVision.dir/src/main.cpp.o: \
  /home/davidb/Documents/Projects/ComputerVision/src/main.cpp \
- /usr/include/stdc-predef.h /usr/include/c++/16/iostream \
- /usr/include/c++/16/bits/requires_hosted.h \
+ /usr/include/stdc-predef.h \
+ /home/davidb/Documents/Projects/ComputerVision/src/tools.h \
+ /home/davidb/Documents/Projects/ComputerVision/src/tools.cpp \
+ /usr/include/c++/16/iostream /usr/include/c++/16/bits/requires_hosted.h \
  /usr/include/c++/16/x86_64-pc-linux-gnu/bits/c++config.h \
  /usr/include/c++/16/x86_64-pc-linux-gnu/bits/os_defines.h \
  /usr/include/features.h /usr/include/features-time64.h \
